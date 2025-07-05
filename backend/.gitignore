@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore API keys
+backend/.env
+
+# Ignore logs
+chat_log.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
